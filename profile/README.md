@@ -3,8 +3,6 @@
 > Des outils open source pensés pour les artisans, créateurs et indépendants.
 > Code propre, stack souveraine, zéro dépendance imposée.
 
-🔗 https://triplecasquette.fr/
-
 ---
 
 ## 🛠️ Projets
@@ -12,7 +10,7 @@
 | Projet | Description | Statut |
 |---|---|---|
 | [Échoppe](https://github.com/Axiome-Apps/echoppe) | Framework e-commerce pour artisans — Shopify en mieux et gratuit | 🚧 En développement |
-| [Plume](https://github.com/Axiome-Apps/Plume) | Compresseur d'images desktop léger et local | ✅ Disponible |
+| [Plume](https://github.com/Axiome-Apps/Plume) | Compresseur d'images desktop léger et local | ✅ Disponible en Beta |
 
 ---
 
