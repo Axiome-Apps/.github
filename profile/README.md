@@ -9,8 +9,8 @@
 
 | Projet | Description | Statut |
 |---|---|---|
-| [Échoppe](https://github.com/Axiome-Apps/echoppe) | Framework e-commerce pour artisans — Shopify en mieux et gratuit | 🚧 En développement |
-| [Plume](https://github.com/Axiome-Apps/Plume) | Compresseur d'images desktop léger et local | ✅ Disponible en Beta |
+| [Plume](https://github.com/Axiome-Apps/Plume) | Compresseur d'images desktop léger et local | 🔵 Beta |
+| [Échoppe](https://github.com/Axiome-Apps/echoppe) | Framework e-commerce pour artisans — API Elysia, dashboard Vue, boutique Next.js | 🚧 Alpha |
 
 ---
 
@@ -18,7 +18,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
-<img src="https://raw.githubusercontent.com/Axiome-Apps/.github/main/profile/elysia.webp" height="20"> Elysia
+<img src="https://raw.githubusercontent.com/Axiome-Apps/.github/main/profile/elysia.webp" height="20"> ![Elysia](https://img.shields.io/badge/Elysia-a855f7)
 ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js&logoColor=white)
