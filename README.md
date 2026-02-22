@@ -20,7 +20,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-1.0-blue?logo=bun&logoColor=white)
+<img src="https://raw.githubusercontent.com/Axiome-Apps/.github/main/profile/elysia.webp" height="20"> Elysia
 ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js&logoColor=white)
